@@ -27,6 +27,14 @@ library(tidyverse)
 設定好指定時間區間後即可看到變數名稱
 
 ```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
 #第10屆第6會期
 get_caucus_meetings(start_date = "111/09/23", end_date = "112/01/19")
 
